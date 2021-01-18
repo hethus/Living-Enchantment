@@ -1,0 +1,36 @@
+#Enchantment
+enchantment.living=Vivo
+#Enchantment Descriptions description
+enchantment.livingenchantment.enchantment.living.desc=Da vida ao item encantado, fazendo ele ficar mais forte com o uso!
+#Commands
+commands.livingenchantment.mainhand_item_not_living=Para usar este comando, você deve ter um item Vivo encantado em sua mão principal.
+commands.livingenchantment.invalid_xp_number=XP deve ser um número não negativo. Pode ser um número decimal.
+commands.additemxp.usage=/additemxp <xp>
+commands.additemxp.success=adicionado %f XP para o item "%s".
+commands.setitemxp.usage=/setitemxp <xp>
+commands.setitemxp.success=Defina o XP de "%s" para %s.
+commands.setitemlevel.usage=/setitemlevel <level>
+commands.setitemlevel.invalid_level_number=O nível deve ser um número inteiro não negativo menor que %s (o nível maximo).
+commands.setitemlevel.success="%s" é agora nível %s.
+commands.resetitem.usage=/resetitem
+commands.resetitem.success="%s" foi completamente reiniciado.
+commands.setpersonality.usage=/setpersonality <personality>
+commands.setpersonality.not_in_range="%s" não é uma personalidade reconhecida. A personalidade especificada deve ser um número maior que zero e menor ou igual a 1, ou o nome da personalidade.
+commands.setpersonality.success=alterado a personalidade de "%s" para "%s".
+commands.setpersonality.listpersonalities=List of available personalities: %s
+#Other text
+tooltip.things_killed=%s Coisas mortas
+tooltip.blocks_pickaxed=%s Blocos quebrados
+tooltip.blocks_axed=%s Blocos cortados
+tooltip.blocks_shoveled=%s Blocos cavados
+tooltip.blocks_hoed=%s Blocos arados
+tooltip.blocks_tooled=%s Vezes usado
+tooltip.hits_taken=%s Golpes tomados
+tooltip.personality=Personalidade: %s
+tooltip.currently_worn=Atualmente usado:
+tooltip.damage_reduction=%s Redução de danos
+#Attack Damage as it appears in your minecraft language
+tooltip.attack_damage=Dano de ataque
+tooltip.lvl=Lvl: %s
+tooltip.exp=XP: %s
+text.new_update_notification=Uma nova atualização está disponível para %s
