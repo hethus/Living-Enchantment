@@ -217,23 +217,23 @@ public class PersonalityLoader {
                         "Ai! Aposto que vão sentir isso amanhã, $user!",
                         "Ooo, parece que deve doer!",
                         "Aiii!",
-                        "All this combat is making me so tired, $user!",
-                        "Take that!"
+                        "Todo esse combate está me deixando tão cansado, $user!",
+                        "Tome isso!"
                 },
                 16,
                 new String[]{ //Twenty percent
-                        "I'm growing weaker, $user. ($durability durability remaining)",
-                        "I'm starting to feel weaker, $user. ($durability durability remaining)",
-                        "Don't forget about me, $user! ($durability durability remaining)",
+                        "Estou ficando mais fraco, $user. Acho que preciso descansar. ($durability durability remaining)",
+                        "Estou começando a me sentir mais fraco, $user. ($durability durability remaining)",
+                        "Não se esqueça de mim, $user! ($durability durability remaining)",
                 },
                 new String[]{ //Five percent
-                        "Is the end finally here? ($durability durability remaining!)",
-                        "Is this where we part ways, $user? ($durability durability remaining!)",
-                        "I'm not ready to die yet, $user! ($durability durability remaining!)",
+                        "O fim finalmente chegou? ($durability durability remaining!)",
+                        "É aqui que nos separamos, $user? ($durability durability remaining!)",
+                        "Ainda não estou pronto para morrer, $user! ($durability durability remaining!)",
                 }));
         createPersonalityFile(new Personality(10, "Depressed",
                 new String[]{ //Use
-                        "$user, can this wait? I'm really tired.",
+                        "$user, isso pode esperar? eu estou muito exausto.",
                         "Do you really need to use me now, $user?",
                         "...Sigh...",
                         "I just wanna sleep...",
