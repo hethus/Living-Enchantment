@@ -119,14 +119,14 @@ public class PersonalityLoader {
                 },
                 1,
                 new String[]{ //Twenty percent
-                        "Estou ficando mais fraco, $user. ($durability durability remaining)",
-                        "Estou começando a me sentir fraco, $user. ($durability durability remaining)",
-                        "Não se esqueça de mim, $user! ($durability durability remaining)",
+                        "Estou ficando mais fraco, $user. ($durability durabilidade restante)",
+                        "Estou começando a me sentir fraco, $user. ($durability durabilidade restante)",
+                        "Não se esqueça de mim, $user! ($durability durabilidade restante)",
                 },
                 new String[]{ //Five percent
-                        "Eu não me sinto bem... ($durability durability remaining!)",
-                        "Não pode ser assim que isso termina, $user! ($durability durability remaining!)",
-                        "Ainda não estou pronto para morrer, $user! ($durability durability remaining!)",
+                        "Eu não me sinto bem... ($durability durabilidade restante!)",
+                        "Não pode ser assim que isso termina, $user! ($durability durabilidade restante!)",
+                        "Ainda não estou pronto para morrer, $user! ($durability durabilidade restante!)",
                 }));
         createPersonalityFile(new Personality(10, "Agressivo",
                 new String[]{ //Use
@@ -167,14 +167,14 @@ public class PersonalityLoader {
                 },
                 14,
                 new String[]{ //Twenty percent
-                        "Estou ficando mais fraco, $user. ($durability durability remaining)",
-                        "Estou começando a me sentir fraco, $user. ($durability durability remaining)",
-                        "Não se esqueça de mim, $user! ($durability durability remaining)",
+                        "Estou ficando mais fraco, $user. ($durability durabilidade restante)",
+                        "Estou começando a me sentir fraco, $user. ($durability durabilidade restante)",
+                        "Não se esqueça de mim, $user! ($durability durabilidade restante)",
                 },
                 new String[]{ //Five percent
-                        "Eu não me sinto bem... ($durability durability remaining!)",
-                        "Não pode ser assim que isso termina, $user! Queria matar mais ($durability durability remaining!)",
-                        "Ainda não estou pronto para morrer, $user! ($durability durability remaining!)",
+                        "Eu não me sinto bem... ($durability durabilidade restante!)",
+                        "Não pode ser assim que isso termina, $user! Queria matar mais ($durability durabilidade restante!)",
+                        "Ainda não estou pronto para morrer, $user! ($durability durabilidade restante!)",
                 }));
         createPersonalityFile(new Personality(10, "Preguiçoso",
                 new String[]{ //Use
@@ -222,14 +222,14 @@ public class PersonalityLoader {
                 },
                 16,
                 new String[]{ //Twenty percent
-                        "Estou ficando mais fraco, $user. Acho que preciso descansar. ($durability durability remaining)",
-                        "Estou começando a me sentir mais fraco, $user. ($durability durability remaining)",
-                        "Não se esqueça de mim, $user! ($durability durability remaining)",
+                        "Estou ficando mais fraco, $user. Acho que preciso descansar. ($durability durabilidade restante)",
+                        "Estou começando a me sentir mais fraco, $user. ($durability durabilidade restante)",
+                        "Não se esqueça de mim, $user! ($durability durabilidade restante)",
                 },
                 new String[]{ //Five percent
-                        "O fim finalmente chegou? ($durability durability remaining!)",
-                        "É aqui que nos separamos, $user? ($durability durability remaining!)",
-                        "Ainda não estou pronto para morrer, $user! ($durability durability remaining!)",
+                        "O fim finalmente chegou? ($durability durabilidade restante!)",
+                        "É aqui que nos separamos, $user? ($durability durabilidade restante!)",
+                        "Ainda não estou pronto para morrer, $user! ($durability durabilidade restante!)",
                 }));
         createPersonalityFile(new Personality(10, "Deprimido",
                 new String[]{ //Use
@@ -268,14 +268,14 @@ public class PersonalityLoader {
                 },
                 18,
                 new String[]{ //Twenty percent
-                        "Minha fraqueza está crescendo, $user. ($durability durability remaining)",
-                        "Estou começando a me sentir mais perto do fim, $user. ($durability durability remaining)",
-                        "Não me esqueça, $user! ($durability durability remaining)",
+                        "Minha fraqueza está crescendo, $user. ($durability durabilidade restante)",
+                        "Estou começando a me sentir mais perto do fim, $user. ($durability durabilidade restante)",
+                        "Não me esqueça, $user! ($durability durabilidade restante)",
                 },
                 new String[]{ //Five percent
-                        "O fim finalmente chegou?? ($durability durability remaining!)",
-                        "É aqui que nos separamos, $user? ($durability durability remaining!)",
-                        "Estou indo... $user... ($durability durability remaining!)",
+                        "O fim finalmente chegou?? ($durability durabilidade restante!)",
+                        "É aqui que nos separamos, $user? ($durability durabilidade restante!)",
+                        "Estou indo... $user... ($durability durabilidade restante!)",
                 }));
         createPersonalityFile(new Personality(10, "Demoníaco",
                 new String[]{ //Use
@@ -320,20 +320,21 @@ public class PersonalityLoader {
                 },
                 12,
                 new String[]{ //Twenty percent
-                        "$user, ao bnzl zegsl ni jlmgbo dlwblhld! ($durability durability remaining)",
-                        "Oep apih jeh zegvlh he rlmb al, $user! ($durability durability remaining)",
-                        "Ao lmcjlii vgei... ($durability durability remaining)",
+                        "$user, ao bnzl zegsl ni jlmgbo dlwblhld! ($durability durabilidade restante)",
+                        "Oep apih jeh zegvlh he rlmb al, $user! ($durability durabilidade restante)",
+                        "Ao lmcjlii vgei... ($durability durabilidade restante)",
                 },
                 new String[]{ //Five percent
-                        "Oep mjh hrmh n irepbd wlgnir, $user? ($durability durability remaining!)",
-                        "Ro ej'h oep rlbw al, $user? ($durability durability remaining!)",
-                        "N ma jlmgbo dlihgeold, $user! ($durability durability remaining!)",
+                        "Oep mjh hrmh n irepbd wlgnir, $user? ($durability durabilidade restante!)",
+                        "Ro ej'h oep rlbw al, $user? ($durability durabilidade restante!)",
+                        "N ma jlmgbo dlihgeold, $user! ($durability durabilidade restante!)",
                 }));
         createPersonalityFile(new Personality(10, "Silencioso",
                 new String[]{ //Use
                         "'-'",
                         ".-.",
                         ">-<",
+                        "( ͡❛ ͜ʖ ͡❛)",
                 },
                 40,
                 new String[]{ //Kill
@@ -361,13 +362,13 @@ public class PersonalityLoader {
                 },
                 40,
                 new String[]{ //Twenty percent
-                        "(╥﹏╥) ($durability durability remaining)",
-                        "ó_ò ($durability durability remaining)",
+                        "(╥﹏╥) ($durability durabilidade restante)",
+                        "ó_ò ($durability durabilidade restante)",
                 },
                 new String[]{ //Five percent
-                        "＞︿＜ ($durability durability remaining)",
-                        "＋▽＋ ($durability durability remaining)",
-                        "+_+ ($durability durability remaining)",
+                        "＞︿＜ ($durability ddurabilidade restante)",
+                        "＋▽＋ ($durability durabilidade restante)",
+                        "+_+ ($durability durabilidade restante)",
                 }));
         createPersonalityFile(new Personality(10, "Gato",
                 new String[]{ //Use
@@ -375,7 +376,7 @@ public class PersonalityLoader {
                         "Miiaau.",
                         "Meew.",
                         "Hiss!",
-                        "Miau??"
+                        "Miau??",
                 },
                 24,
                 new String[]{ //Kill
@@ -387,39 +388,39 @@ public class PersonalityLoader {
                 new String[]{ //Death
                         "Miau...",
                         "Miau... miau?",
-                        "Miau...?"
+                        "Miau...?",
                 },
                 new String[]{ //Level Up
-                        "Miau! (Level $level)"
+                        "Miau! (Level $level)",
                 },
                 new String[]{ //On Hurt
                         "Miau!",
                         "Hiss!",
                         "Hiss!",
-                        "Hisss!"
+                        "Hisss!",
                 }, 8,
                 new String[]{ //Twenty percent
-                        "Miau! ($durability durability remaining)",
-                        "Miau? ($durability durability remaining)",
+                        "Miau! ($durability durabilidade restante)",
+                        "Miau? ($durability durabilidade restante)",
                 },
                 new String[]{ //Five percent
-                        "Mrrrrow! ($durability durability remaining)",
-                        "Miau! ($durability durability remaining)",
-                        "Miau??? Mrrrrow Mrrrrow! ($durability durability remaining)",
+                        "Mrrrrow! ($durability durabilidade restante)",
+                        "Miau! ($durability durabilidade restante)",
+                        "Miau??? Mrrrrow Mrrrrow! ($durability durabilidade restante)",
                 }));
-        createPersonalityFile(new Personality(10, "Dog",
+        createPersonalityFile(new Personality(10, "Cachorro",
                 new String[]{ //Use
                         "Au au.",
-                        "áuuuuu.",
+                        "Áuuuuu.",
                         "Khainnn.",
                         "Au! Au! Au!",
-                        "*farejando*"
+                        "*farejando*",
                 },
                 24,
                 new String[]{ //Kill
                         "Au!",
                         "AU AU AU!",
-                        "Au! AU! Au!"
+                        "Au! AU! Au!",
                 },
                 12,
                 new String[]{ //Death
@@ -428,26 +429,26 @@ public class PersonalityLoader {
                 },
                 new String[]{ //Level Up
                         "Au! (Level $level)",
-                        "AUU! (Level $level)"
+                        "AUU! (Level $level)",
                 },
                 new String[]{ //On Hurt
                         "Au!",
                         "AUAU!",
                         "Au au au!",
                         "Auuuuuuuu.",
-                        "*Rrrrrrr*"
+                        "*Rrrrrrr*",
                 }, 8,
                 new String[]{ //Twenty percent
-                        "Khainnn. ($durability durability remaining)",
-                        "Rrrrr. ($durability durability remaining)",
-                        "Au! Auuuuu! ($durability durability remaining)",
+                        "Khainnn. ($durability durabilidade restante)",
+                        "Rrrrr. ($durability durabilidade restante)",
+                        "Au! Auuuuu! ($durability durabilidade restante)",
                 },
                 new String[]{ //Five percent
-                        "Khainnn. ($durability durability remaining)",
-                        "*choramingando* ($durability durability remaining)",
-                        "AUUuu! ($durability durability remaining)",
+                        "Khainnn. ($durability durabilidade restante)",
+                        "*choramingando* ($durability durabilidade restante)",
+                        "AUUuu! ($durability durabilidade restante)",
                 }));
-        createPersonalityFile(new Personality(10, "Glitchy",
+        createPersonalityFile(new Personality(10, ".BuGa_do",
                 new String[]{ //Use
                         "§k c  drtbs fn  Wsneathc gt n  e. ceiapk½p  s t+thicFe  dce",
                         "§kemono,h    ?. eesf echh²aeane=e.TetVtd e²e½t.",
@@ -479,16 +480,16 @@ public class PersonalityLoader {
                         "§krsdile"
                 }, 8,
                 new String[]{ //Twenty percent
-                        "§km a displacement kinetic energy of the resultant x? We caus§r ($durability durability remaining)",
-                        "§kin call product of a particle o§r ($durability durability remaining)",
-                        "§k then stant and V - ½ ( ½ ( V is the represe§r ($durability durability remaining)",
+                        "§km a displacement kinetic energy of the resultant x? We caus§r ($durability durabilidade restante)",
+                        "§kin call product of a particle o§r ($durability durabilidade restante)",
+                        "§k then stant and V - ½ ( ½ ( V is the represe§r ($durability durabilidade restante)",
                 },
                 new String[]{ //Five percent
-                        "§kd the squationstant x? We mas§r ($durability durability remaining!)",
-                        "§krticle of the resent acti§r ($durability durability remaining!)",
-                        "§k stant and V - ½ ( ½ ( V is the represent kineticle on a partic energy of its speed at t§r ($durability durability remaining!)",
+                        "§kd the squationstant x? We mas§r ($durability durabilidade restante!)",
+                        "§krticle of the resent acti§r ($durability durabilidade restante!)",
+                        "§k stant and V - ½ ( ½ ( V is the represent kineticle on a partic energy of its speed at t§r ($durability durabilidade restante!)",
                 }));
-        createPersonalityFile(new Personality(10, "Alien",
+        createPersonalityFile(new Personality(10, "Alienígena",
                 new String[]{ //Use
                         "⌇⍾⏃⟒⏃⟒ ⏃⍜⋉⟒",
                         "⟟⋉ ⊬⟟⋉ ⊬⟟⌖⟊⏃☍ ⍾⏃⟒ ⌖⏃ ⌇⍜⋏☌?",
@@ -531,61 +532,433 @@ public class PersonalityLoader {
                 },
                 12,
                 new String[]{ //Twenty percent
-                        "⋔⊬ ⌰⟟⎎⟒ ⟒⌇⌇⟒⋏☊⟒ ⟟⌇ ☌⟒⏁⏁⟟⋏☌ ⎎⏃⟟⍀⌰⊬ ⌰⍜⍙... ($durability durability remaining)",
-                        "⟟⌇⋏'⏁ ⟟⏁ ⏁⟟⋔⟒ ⊬⍜⎍ ⍀⟒⌿⏃⟟⍀⟒⎅ ⋔⟒? ($durability durability remaining)",
-                        "⟟'⋔ ⎎⟒⟒⌰⟟⋏☌ ⌿⍀⟒⏁⏁⊬ ⍙⟒⏃☍ ($durability durability remaining)",
+                        "⋔⊬ ⌰⟟⎎⟒ ⟒⌇⌇⟒⋏☊⟒ ⟟⌇ ☌⟒⏁⏁⟟⋏☌ ⎎⏃⟟⍀⌰⊬ ⌰⍜⍙... ($durability durabilidade restante)",
+                        "⟟⌇⋏'⏁ ⟟⏁ ⏁⟟⋔⟒ ⊬⍜⎍ ⍀⟒⌿⏃⟟⍀⟒⎅ ⋔⟒? ($durability durabilidade restante)",
+                        "⟟'⋔ ⎎⟒⟒⌰⟟⋏☌ ⌿⍀⟒⏁⏁⊬ ⍙⟒⏃☍ ($durability durabilidade restante)",
                 },
                 new String[]{ //Five percent
-                        "⋔⊬ ⌰⟟⎎⟒ ⟒⌇⌇⟒⋏☊⟒ ⟟⌇ ☌⟒⏁⏁⟟⋏☌ ⎎⏃⟟⍀⌰⊬ ⌰⍜⍙... ($durability durability remaining!)",
-                        "⟟⌇⋏'⏁ ⟟⏁ ⏁⟟⋔⟒ ⊬⍜⎍ ⍀⟒⌿⏃⟟⍀⟒⎅ ⋔⟒? ($durability durability remaining!)",
-                        "⟟'⋔ ⎎⟒⟒⌰⟟⋏☌ ⌿⍀⟒⏁⏁⊬ ⍙⟒⏃☍ ($durability durability remaining!)",
+                        "⋔⊬ ⌰⟟⎎⟒ ⟒⌇⌇⟒⋏☊⟒ ⟟⌇ ☌⟒⏁⏁⟟⋏☌ ⎎⏃⟟⍀⌰⊬ ⌰⍜⍙... ($durability durabilidade restante!)",
+                        "⟟⌇⋏'⏁ ⟟⏁ ⏁⟟⋔⟒ ⊬⍜⎍ ⍀⟒⌿⏃⟟⍀⟒⎅ ⋔⟒? ($durability durabilidade restante!)",
+                        "⟟'⋔ ⎎⟒⟒⌰⟟⋏☌ ⌿⍀⟒⏁⏁⊬ ⍙⟒⏃☍ ($durability durabilidade restante!)",
                 }));
-        createPersonalityFile(new Personality(10, "Enérgico",
+        createPersonalityFile(new Personality(10, "Hiperativo",
                 new String[]{ //Use
                         "De novo! De novo!",
-                        "This is so fun, let's keep doing it, $user!",
-                        "Keep going!",
+                        "Isso é tão divertido, vamos continuar fazendo isso, $user!",
+                        "Continuaaaa!",
                         "Yay!",
-                        "I could do this all day!",
-                        "$user, don't stop! This is so much fun!",
-                        "I want more!",
-                        "This is exciting! Don't you agree, $user?"
+                        "Eu poderia fazer isso o dia todo!",
+                        "$user, não pare! Isso é tão divertido!",
+                        "Eu quero maisss!",
+                        "Isso é muito emocionante! Não concorda, $user?",
                 },
                 24,
                 new String[]{ //Kill
-                        "We really showed them!",
-                        "Good job, $user!",
-                        "Killing is so much work! I love it!"
+                        "Nós realmente mostramos a eles!",
+                        "Bom trabalho, $user!",
+                        "Matar dá muito trabalho! Eu amo isso!",
                 },
                 12,
                 new String[]{ //Death
-                        "Oh no! Is this the end?",
-                        "Noooo! We were only getting started!",
-                        "We'll get them next time, right? $user? ...oh, you died.",
-                        "Don't forget about me, $user!"
+                        "Ah não! Esse é o fim?",
+                        "Nããão! Nós estávamos apenas começando!",
+                        "Vamos pegá-los da próxima vez, certo? $user?... Oh, você morreu.",
+                        "Nunca se esqueça de mim, $user!",
                 },
                 new String[]{ //Level Up
-                        "Ah yes, more power! (Level $level)",
-                        "I can feel the power flowing through me, $user! Let's keep going! (Level $level)",
-                        "I feel stronger already, $user! (Level $level)!"
+                        "Ah sim, mais poder! (Level $level)",
+                        "Posso sentir o poder fluindo por mim, $user! Vamos continuar! (Level $level)",
+                        "Já me sinto mais forte, $user! (Level $level)!",
                 },
                 new String[]{ //On Hurt
-                        "Ouch! I bet they'll feel that one tomorrow, $user!",
-                        "Ooo, that looks like it had to hurt!",
-                        "Ouch!",
-                        "Take that!"
+                        "Ai! Aposto que vão sentir isso amanhã, $user!",
+                        "Ooo, parece que deve doer!",
+                        "AII!",
+                        "TOME ISSO!",
                 },
                 16,
                 new String[]{ //Twenty percent
-                        "I'm starting to hurt, $user. ($durability durability remaining)",
-                        "I'm feeling weaker, $user. ($durability durability remaining)",
-                        "Don't forget about me, $user! ($durability durability remaining)"
+                        "Estou sentindo dor, $user. ($durability durabilidade restante)",
+                        "Não estou tão bem como antes, $user. ($durability durabilidade restante)",
+                        "Eu fui útil $user? Não se esqueça de mim. ($durability durabilidade restante)",
                 },
                 new String[]{ //Five percent
-                        "(oof...) Is... is this the end of our adventure, $user? ($durability durability remaining!)",
-                        "I don't feel so good, $user... ($durability durability remaining!)",
-                        "I don't wanna die, $user! ($durability durability remaining!)",
-                        "I guess... this is it, huh $user? ($durability durability remaining!)"
+                        "(Ahhn...) É... é este o fim da nossa parceria, $user? ($durability durabilidade restante!)",
+                        "Eu realmente estou fraco, $user... ($durability durabilidade restante!)",
+                        "Eu não quero morrer, $user! ($durability durabilidade restante!)",
+                        "Eu acho... é isso, hein $user? Acabou.... ($durability durabilidade restante!)",
+                }));
+        createPersonalityFile(new Personality(10, "Gamer",
+                new String[]{ //Use
+                        "Será que se tivesse led não seria melhor?",
+                        "$user, isso não cansa não? Podiamos jogar um pouco pra relaxar",
+                        "EU FAZIA ISSO EM UM JOGO ANTES KKKKKK",
+                        "Eu pensei que ia ser o jogador não o trabalhador!",
+                        "Não da pra fazer nenhum combo pra ir mais rápido, $user?",
+                        "Acho que aprendi com o Davi, vi ele quebrando uns blocos assim",
+                },
+                24,
+                new String[]{ //Kill
+                        "GG",
+                        "iziiii de mais",
+                        "$user, eram bots?",
+                        "APRENDI COM O ALAN",
+                },
+                12,
+                new String[]{ //Death
+                        "Ah, morreu... rlx, vai respawnar",
+                        "GAME OVER, pressione 'CONTINUE'",
+                },
+                new String[]{ //Level Up
+                        "Subindo de nível e ficando apelão! (Level $level)",
+                        "Ei $user, não posso voltar base e comprar item? (Level $level)",
+                        "Ta ficando izi ou eu que to forte? (Level $level)",
+                },
+                new String[]{ //On Hurt
+                        "Eles não sabem que estamos em call!",
+                        "$user, vamos mandar ver, preciso de XP.",
+                        "Cai dentro, sou desafiante!",
+                        "cadê o PvP, $user?",
+                        "Eu sou main eu mesmo, sei como dar dano comigo.... Meio estranho, mas é a verdade.",
+                        "Será que o Viniccius13 ia ficar orgulhoso de mim $user??",
+                }, 8,
+                new String[]{ //Twenty percent
+                        "Acho que ta dando errado esse game ($durability durabilidade restante)",
+                        "Será que ficar fraco me diz que to ficando pior no jogo, $user? ($durability durabilidade restante)",
+                        "Acho que parou de ser izi ($durability durabilidade restante)",
+                },
+                new String[]{ //Five percent
+                        "Acho que vou desconectar agora, me desculpe $user ($durability durabilidade restante)",
+                        "Até a proxima partida... $user.... ($durability durabilidade restante)",
+                        "Será que vou dar respawn? Não quero partir.... ($durability durabilidade restante)",
+                }));
+        createPersonalityFile(new Personality(10, "Lunático",
+                new String[]{ //Use
+                        "Que isso?",
+                        "$user, eu não sei, sabe? serve pra algo?",
+                        "Acho que seria útil isso se for útil",
+                        "$user! $user! Eu sirvo nesse trabalho no..... O que eu tava falando?",
+                        "Olá, $user, qual é o seu nome mesmo? eu não perguntei antes, isso que eu te ajudo",
+                },
+                24,
+                new String[]{ //Kill
+                        "Mas será que matou mesmo? tipo, morreu morto",
+                        "Espera? EU IA FALAR.... pedra, ahn?",
+                        "$user, já pensou se eles voltam e te fazem um bolo?",
+                },
+                12,
+                new String[]{ //Death
+                        "UE, por que eu caí no chão???",
+                        "$user, ta cansado? deitou do nada no chão, parece até um bloco de grama.",
+                },
+                new String[]{ //Level Up
+                        "To me sentindo diferente, acho que eu fui escolhido! (Level $level)",
+                        "Ei $user, vou voar agora? (Level $level)",
+                        "Não sabia que eu conseguia..... perai, onde eu to??? (Level $level)",
+                },
+                new String[]{ //On Hurt
+                        "$user eles não são feitos de bolo, sabia?",
+                        "LEMBREIIIII..... TANGERINA",
+                        "Será que a dor se machuca?",
+                        "Tá legal o.... aquilo la.... ahn?, $user? Por que ta batendo nos monstros amiguinhos?",
+                        "Se matar um zumbi, ele vai virar um esqueleto?????"
+                }, 8,
+                new String[]{ //Twenty percent
+                        "Acho que a dor ta me batendo ($durability durabilidade restante)",
+                        "To mais fraco que.... Oque eu tava falando? quero uma banana. ($durability durabilidade restante)",
+                        "SE TER PODER é..... BATATA? ahn?? ($durability durabilidade restante)",
+                },
+                new String[]{ //Five percent
+                        "A DOR TA ME BATENDO SIM..... AAAAaaaaAAAAhH $user!!! ($durability durabilidade restante)",
+                        "$user.... Eu queria ter comido uma banana antes de ir.... ($durability durabilidade restante)",
+                        "Será que a morte matá?.... ($durability durabilidade restante)",
+                }));
+        createPersonalityFile(new Personality(10, "Raivoso",
+                new String[]{ //Use
+                        "É ISSO",
+                        "$user EU QUERIA TE BATER, MAS NÃO POSSO",
+                        "SE UM DIA EU CONSEGUIR SAIR DAQUI, VOU TE USAR COMO VOCÊ ME USA!",
+                        "$user! MELHOR AJOELHAR E PEDIR PERDÃO POR ME USAR ASSIM $user! ",
+                        "SE ALGO ACONTECER COMIGO $user, VOCÊ VAI JUNTO, NÃO É FACIL FAZER O TRABALHO PESADO",
+                },
+                24,
+                new String[]{ //Kill
+                        "CRIATURAS EFÊMERAS!",
+                        "$user, O PROXIMO É VOCÊ!",
+                        "$user, ELES TIVERAM O QUE MERECERAM POR ME OLHAR",
+                },
+                12,
+                new String[]{ //Death
+                        "HAHAHAHA, ISSO, EU DISSE QUE IRIA TE MATAR HAHAHAHA",
+                        "$user VOCÊ É UM MERDA, NEM VIVO CONSEGUE FICAR",
+                },
+                new String[]{ //Level Up
+                        "AGORA SERÁ MAIS FACIL TE MATAR $user (Level $level)",
+                        "TO TÃO FORTE QUE POSSO DESTRUIR ESSE MUNDO DE MERDA (Level $level)",
+                        "CALA A BOCAAAA, MENSAGEM DE LEVEL CHATA (Level $level)",
+                },
+                new String[]{ //On Hurt
+                        "TEM MUITO MAIS DA ONDE SAIU ESSA HAHAHAHA",
+                        "IRÁ MORRER DO PIOR JEITO SUA LESMA",
+                        "MACHUCA? TADINHO, VAI MORRER PIOR DO QUE A SUA MÃE",
+                        "CHAME SEUS AMIGUINHOS PARA MORRER TAMBÉM",
+                        "BWAHAHAHAHAHAHA"
+                }, 8,
+                new String[]{ //Twenty percent
+                        "ACHO QUE A MINHA RAIVA ESTA ME CONSUMINDO ($durability durabilidade restante)",
+                        "ISSO TUDO É SUA CULPA $user ($durability durabilidade restante)",
+                        "SE EU MORRER, IREI VOLTAR PARA TE MATAR SEU BOSTA! ($durability durabilidade restante)",
+                },
+                new String[]{ //Five percent
+                        "Acho que a minha raiva me consumiu mesmo..... ($durability durabilidade restante)",
+                        "$user.... Eu, eu queria..... me des.... TE MATAR HAHAHAHA ($durability durabilidade restante)",
+                        "Morrendo pelo menos eu me livro de um imprestavél igual você $user! ($durability durabilidade restante)",
+                }));
+        createPersonalityFile(new Personality(10, "Nojento",
+                new String[]{ //Use
+                        "Credoooo!",
+                        "$user acho que vou vomitar!",
+                        "ISSO! Agora to todo sujo, parabéns!",
+                        "AQUILO ERA UMA MINHOCA $user???! ",
+                        "*vomitando*",
+                },
+                24,
+                new String[]{ //Kill
+                        "CREDOOOOOOO",
+                        "$user, VOCÊ ME USOU PARA ESSE TRABALHO SUJO!",
+                        "$user, agora quem vai me limpar??? Que nojo",
+                },
+                12,
+                new String[]{ //Death
+                        "OTIMO MESMO EM, MORRE E ME DEIXA NO CHÃO SUJO",
+                        "$user QUE NOJOOOOOO, to vendo o seu sangue",
+                },
+                new String[]{ //Level Up
+                        "Depois de tanto serviço nojento, acho que essa é a recompensa (Level $level)",
+                        "Sera que agora posso trabalhar em um campo de flores? (Level $level)",
+                        "EBAAA, agora você vai fazer eu trabalhar mais pesado né? AFF (Level $level)",
+                },
+                new String[]{ //On Hurt
+                        "CREDOOOOOO",
+                        "NOJOOOOOOOOOOOOOOOOOOO",
+                        "OLHA O SANGUE AAAAAAAAAAAAAAAAAAAA",
+                        "PAREEEEEEEEEEE, TA ME SUJANDO",
+                        "TIRA ESSA MÃO GORDUROSA DE MIM $user!"
+                }, 8,
+                new String[]{ //Twenty percent
+                        "Acho que to passando mal ($durability durabilidade restante)",
+                        "To meio tonto $user ($durability durabilidade restante)",
+                        "Eu vi tanto sangue hoje ($durability durabilidade restante)",
+                },
+                new String[]{ //Five percent
+                        "Acho.... que to morrendo, que nojo ($durability durabilidade restante)",
+                        "$user.... se você tivesse me levado em um lugar melhor...... ($durability durabilidade restante)",
+                        "Pelo menos não irei mais ver sangue, nunca mais $user! ($durability durabilidade restante)",
+                }));
+         createPersonalityFile(new Personality(10, "Negativo",
+                new String[]{ //Use
+                        "Sabe que não adianta ne?",
+                        "$user todos somos perdedores",
+                        "EBAA, vamo trabalhar por nada",
+                        "Sabe que seu esforço é inutil né $user?! ",
+                        "Uma hora ou outra você vai desistir",
+                },
+                24,
+                new String[]{ //Kill
+                        "E o que adianta?",
+                        "$user parabéns, mas cedo ou tarde você ira morrer",
+                        "$user, só esta trabalhando em vão",
+                },
+                12,
+                new String[]{ //Death
+                        "Eu disse, não me escutou!",
+                        "$user todos iremos perder, eu te disse",
+                },
+                new String[]{ //Level Up
+                        "E o que adianta ficar mais forte? (Level $level)",
+                        "Sabe que ainda continuo um inútil né? (Level $level)",
+                        "Só me deixe aqui e vá embora (Level $level)",
+                },
+                new String[]{ //On Hurt
+                        "Isso só significa que tera que bater mais",
+                        "Todos vamos morrer, não se preocupe",
+                        "Ai Ai, é cada trabalho",
+                        "$user, seu esforço é uma merda",
+                        "Daqui a pouco alguem irá te machucar assim também $user"
+                }, 8,
+                new String[]{ //Twenty percent
+                        "Eu disse.... ($durability durabilidade restante)",
+                        "$user sempre tenho razão ($durability durabilidade restante)",
+                        "todos somos bosta ($durability durabilidade restante)",
+                },
+                new String[]{ //Five percent
+                        "Eu acho.... que vou morrer, finalmente ($durability durabilidade restante)",
+                        "$user.... a sua hora será depois ($durability durabilidade restante)",
+                        "O Mundo é uma merda..... ($durability durabilidade restante)",
+                }));
+        createPersonalityFile(new Personality(10, "Artista",
+                new String[]{ //Use
+                        "A arte está em tudo mesmo",
+                        "$user será que podemos usar isso para fazer uma obra de arte?",
+                        "O mundo se transformando a partir da arte!",
+                        "Todos esses pixels! São tão artisticos né $user?! ",
+                        "Arte em cada parte desse mundo, é isso que iremos fazer né?",
+                },
+                24,
+                new String[]{ //Kill
+                        "Mesmo a morte é uma forma de arte",
+                        "$user o sangue restante da pra usar como tinta vermelha, não jogue fora",
+                        "$user, que belo artista você é!",
+                },
+                12,
+                new String[]{ //Death
+                        "Infelizmente $user, você morreu pela arte",
+                        "$user não irei conseguir terminar esse quadro sozinho",
+                },
+                new String[]{ //Level Up
+                        "Queria fazer um desenho desse momento (Level $level)",
+                        "A ARTE ESTÁ NO TOPO DO MUNDO (Level $level)",
+                        "Eu irei levar a arte pelo mundo agora! (Level $level)",
+                },
+                new String[]{ //On Hurt
+                        "Me desculpe, mas é tudo pela arte.",
+                        "A arte sempre vence!",
+                        "Sem censura!!!!! #ARTELIVRE",
+                        "$user, faça cortes ali também, ta terminando o desenho",
+                        "A arte faz parte de você $user"
+                }, 8,
+                new String[]{ //Twenty percent
+                        "A arte..... ($durability durabilidade restante)",
+                        "será que to ficando velho para pintar ($durability durabilidade restante)",
+                        "$user, continue meus projetos ($durability durabilidade restante)",
+                },
+                new String[]{ //Five percent
+                        "A arte..... Nunca morrerá ($durability durabilidade restante)",
+                        "$user.... o palco é todo seu ($durability durabilidade restante)",
+                        "Termine meus desenhos.... espalhe eles pelo mundo..... ($durability durabilidade restante)",
+                }));
+        createPersonalityFile(new Personality(10, "Aventureiro",
+                new String[]{ //Use
+                        "VAMOS EXPLORAR, a gente continua isso depois",
+                        "$user não prefere viajar não?",
+                        "O mundo está la fora, vamos!!!!!",
+                        "Bora procurar uma dungeon $user! ",
+                        "Temos tudo que precisamos, vamosssss logo",
+                },
+                24,
+                new String[]{ //Kill
+                        "Isso pode ser considerado uma avenura?",
+                        "$user falta muitoooo mais do mundo para ver",
+                        "$user, o mundo sempre é assim, infelizmente",
+                },
+                12,
+                new String[]{ //Death
+                        "NÃOOOOOOOOO, a gente nem foi naquela cavernaaaaaaa",
+                        "$user não me deixe parado aquiiiiiii",
+                },
+                new String[]{ //Level Up
+                        "Agora sou um aventureiro mais forte (Level $level)",
+                        "ESTOU PRONTO PARA EXPLORAR (Level $level)",
+                        "Nada irá me parar de ver o mundo lá fora (Level $level)",
+                },
+                new String[]{ //On Hurt
+                        "Na aventura, sempre tem sangue",
+                        "Temos que nós proteger",
+                        "Bem que podiamos ser amigos",
+                        "$user, será que não existe outro caminho?",
+                        "Eu quero ver se amanhã irei lembrar desse ou de outro momento"
+                }, 8,
+                new String[]{ //Twenty percent
+                        "Eu.... to mais fraco ($durability durabilidade restante)",
+                        "A aventura é meu ponto forte, não durabilidade ($durability durabilidade restante)",
+                        "$user, será que poderei ir com você na proxima aventura? ($durability durabilidade restante)",
+                },
+                new String[]{ //Five percent
+                        "Eu não explorei o mundo como queria.... ($durability durabilidade restante)",
+                        "$user.... o que eu fiz de errado?..... ($durability durabilidade restante)",
+                        "Só queria fazer parte de uma aventura $user ...... ($durability durabilidade restante)",
+                }));
+        createPersonalityFile(new Personality(10, "Nerd",
+                new String[]{ //Use
+                        "A altura e a largura não ta batendo na minha conta",
+                        "$user será que pode me deixar na universidade depois que me usar?",
+                        "Se o conhecimento estivesse aqui....",
+                        "já fez suas equações antes de fazer isso $user?",
+                        "Tudo se resume a matemática",
+                },
+                24,
+                new String[]{ //Kill
+                        "TUDO PELA CIÊNCIA",
+                        "$user a vida faz parte da equação",
+                        "$user a resposta da sua pergunta é 42.",
+                },
+                12,
+                new String[]{ //Death
+                        "Infelizmente virou poeira cosmica",
+                        "$user melhor voltar para me buscar, não sei me cuidar sozinho",
+                },
+                new String[]{ //Level Up
+                        "A ciência provou sua eficácia (Level $level)",
+                        "Einstein será nada perto de mim (Level $level)",
+                        "O poder está na ciênciaaaaa (Level $level)",
+                },
+                new String[]{ //On Hurt
+                        "O corpo aguenta bastante machucados",
+                        "Irei anotar esses dados na volta",
+                        "Meu amigo biologo me contou sobre isso anos atras",
+                        "$user, esta tentando fazer experimentos?",
+                        "TUDO PELA CIÊNCIA!"
+                }, 8,
+                new String[]{ //Twenty percent
+                        "Acho que preciso descansar ($durability durabilidade restante)",
+                        "Sera que vou conseguir terminar a minha teoria ($durability durabilidade restante)",
+                        "$user, não pode me levar em algum hospital? ($durability durabilidade restante)",
+                },
+                new String[]{ //Five percent
+                        "Irei partir agora..... ($durability durabilidade restante)",
+                        "$user.... termine a minha equação da vida, universo e tudo mais! ($durability durabilidade restante)",
+                        "Aprendi muito.... não me arrependo, adeus..... ($durability durabilidade restante)",
+                }));
+        createPersonalityFile(new Personality(10, "Otaku",
+                new String[]{ //Use
+                        "Pra que fazer isso? Vamo ver anime",
+                        "$user tem coisa melhor do que ficar aqui sabia?",
+                        "Se pelo menos eu tivesse uma individualidade....",
+                        "Já leu todo One Piece $user?",
+                        "Bem que eu podia conseguir usar um jutsu né?",
+                },
+                24,
+                new String[]{ //Kill
+                        "Não volte como uma maldição em!",
+                        "$user será que Gojou ficaria honrado?",
+                        "$user, acho que sou um ninja da folha",
+                },
+                12,
+                new String[]{ //Death
+                        "CADE O PODER DO PROTAGONISMO",
+                        "$user não me faça escutar musica triste e ver flashback justo agora",
+                },
+                new String[]{ //Level Up
+                        "O abacaxi é enigmático quando dança de biquíni (Level $level)",
+                        "O Mundo conhecerá a verdadeira Dor (Sekai ni Itami o) (Level $level)",
+                        "AGORA VOU PODER USAR O SMASH (Level $level)",
+                },
+                new String[]{ //On Hurt
+                        "POR FAVOR, NÃO VIRE UM GIGANTE",
+                        "'Fazer o que bem entender é digno de quem tem poder.' Tokyo Ghoul",
+                        "Pelo menos aqui não tem sangue branco",
+                        "$user, imagina se tivessemos um objeto sagrado???",
+                        "Só espero que não seja o Ban, a Raposa Imortal!"
+                }, 8,
+                new String[]{ //Twenty percent
+                        "Pensei que fosse um shounen.... ($durability durabilidade restante)",
+                        "Será que poderei usar meu modo super sayajin agora? ($durability durabilidade restante)",
+                        "$user, acho que perdi algum anime, to mais fraco..... ($durability durabilidade restante)",
+                },
+                new String[]{ //Five percent
+                        "Eu acho que..... meu episodio especial acabou.... ($durability durabilidade restante)",
+                        "$user.... termine de ler One Piece por mim, sayonara..... ($durability durabilidade restante)",
+                        "'É melhor se machucar do que machucar os outros. Pessoas boas podem ser felizes com isso'.... Tokyo... ($durability durabilidade restante)",
                 }));
     }
 
