@@ -231,53 +231,53 @@ public class PersonalityLoader {
                         "É aqui que nos separamos, $user? ($durability durability remaining!)",
                         "Ainda não estou pronto para morrer, $user! ($durability durability remaining!)",
                 }));
-        createPersonalityFile(new Personality(10, "Depressed",
+        createPersonalityFile(new Personality(10, "Deprimido",
                 new String[]{ //Use
                         "$user, isso pode esperar? eu estou muito exausto.",
-                        "Do you really need to use me now, $user?",
+                        "Você realmente precisa me usar agora, $user?",
                         "...Sigh...",
-                        "I just wanna sleep...",
-                        "Are we almost done yet, $user? I'm really tired.",
+                        "Eu só quero dormir...",
+                        "Já estamos quase terminando, $user? eu estou muito... cansado.",
                 },
                 48,
                 new String[]{ //Kill
-                        "They're better off now anyway, $user",
-                        "It's unfortunate I can't get you to kill me instead, $user",
-                        "...Lucky",
-                        "If only..."
+                        "Eles estão melhor agora de qualquer maneira, $user",
+                        "É uma pena que não posso fazer você me matar em vez disso, $user",
+                        "...Sortudos",
+                        "Se.. apenas..."
                 },
                 22,
                 new String[]{ //Death
-                        "No $user, Not you too!",
-                        "Don't leave me here, $user! Take me with you!",
-                        "You're lucky, $user...",
-                        "$user, I wish I was you... If I only was so fortunate"
+                        "Não $user, Você também não!",
+                        "Não me deixe aqui, $user! Me leve com você!",
+                        "Você tem sorte, $user...",
+                        "$user, Eu queria ser você... Se eu tivesse essa sorte"
                 },
                 new String[]{ //Level Up
-                        "$user, I feel a bit better ($level)",
-                        "Hey, $user, I'm starting to feel better... nope, wait, I'm not. ($level)",
-                        "I don't deserve this, $user ($level)",
-                        "Why help me, $user? ($level)",
-                        "$user, just stop. I don't need your sympathy ($level).",
+                        "$user, Me sinto um pouco melhor ($level)",
+                        "Eii, $user, Estou começando a me sentir melhor... não, espere, não estou não. ($level)",
+                        "Eu não mereço isso, $user ($level)",
+                        "Porque sempre me ajuda, $user? ($level)",
+                        "$user, simplesmente pare! Eu não preciso da sua simpatia ($level).",
                 },
                 new String[]{ //On Hurt
-                        "That's not very nice of you, $user...",
-                        "Maybe you shouldn't hurt others, $user...",
-                        "$user, is that really nice of you?",
-                        "$user, when will you stop swinging me around? I'm tired.",
+                        "Isso não é muito legal da sua parte, $user...",
+                        "Talvez você não deva machucar os outros, $user...",
+                        "$user, tem certeza que isso é uma coisa boa?",
+                        "$user, quando você vai parar de me balançar? estou cansado.",
                 },
                 18,
                 new String[]{ //Twenty percent
-                        "My weakness is growing, $user. ($durability durability remaining)",
-                        "I'm starting to feel weaker, $user. ($durability durability remaining)",
-                        "Don't forget about me, $user! ($durability durability remaining)",
+                        "Minha fraqueza está crescendo, $user. ($durability durability remaining)",
+                        "Estou começando a me sentir mais perto do fim, $user. ($durability durability remaining)",
+                        "Não me esqueça, $user! ($durability durability remaining)",
                 },
                 new String[]{ //Five percent
-                        "Is the end finally here? ($durability durability remaining!)",
-                        "Is this where we part ways, $user? ($durability durability remaining!)",
-                        "I'm ready, $user... ($durability durability remaining!)",
+                        "O fim finalmente chegou?? ($durability durability remaining!)",
+                        "É aqui que nos separamos, $user? ($durability durability remaining!)",
+                        "Estou indo... $user... ($durability durability remaining!)",
                 }));
-        createPersonalityFile(new Personality(10, "Demonic",
+        createPersonalityFile(new Personality(10, "Demoníaco",
                 new String[]{ //Use
                         "sqaeae aoze",
                         "iz yiz yixjak qae xa song?",
@@ -329,108 +329,123 @@ public class PersonalityLoader {
                         "Ro ej'h oep rlbw al, $user? ($durability durability remaining!)",
                         "N ma jlmgbo dlihgeold, $user! ($durability durability remaining!)",
                 }));
-        createPersonalityFile(new Personality(10, "Silent",
+        createPersonalityFile(new Personality(10, "Silencioso",
                 new String[]{ //Use
-                        "..."
+                        "'-'",
+                        ".-.",
+                        ">-<",
                 },
                 40,
                 new String[]{ //Kill
-                        "..."
+                        ":s",
+                        "O.O",
+                        "._.",
                 },
                 40,
                 new String[]{ //Death
-                        "..."
+                        ";-;",
+                        ";;---;;",
+                        "( ﾟдﾟ)",
+                        "(ㆆ_ㆆ)",
                 },
                 new String[]{ //Level Up
-                        "... (Level $level)"
+                        "¯\_(ツ)_/¯ (Level $level)",
+                        "◕‿◕ (Level $level)",
+                        "^_^ (Level $level)",
                 },
                 new String[]{ //On Hurt
-                        "..."
+                        "ಠ_ಠ",
+                        "( ˘︹˘ )",
+                        "(ง︡'-'︠)ง",
+                        "(≖_≖ )",
                 },
                 40,
                 new String[]{ //Twenty percent
-                        "... ($durability durability remaining)",
+                        "(╥﹏╥) ($durability durability remaining)",
+                        "ó_ò ($durability durability remaining)",
                 },
                 new String[]{ //Five percent
-                        "... ($durability durability remaining)",
+                        "＞︿＜ ($durability durability remaining)",
+                        "＋▽＋ ($durability durability remaining)",
+                        "+_+ ($durability durability remaining)",
                 }));
-        createPersonalityFile(new Personality(10, "Cat",
+        createPersonalityFile(new Personality(10, "Gato",
                 new String[]{ //Use
-                        "Meow.",
-                        "Meeoow.",
+                        "Miau.",
+                        "Miiaau.",
                         "Meew.",
                         "Hiss!",
-                        "Meow?"
+                        "Miau??"
                 },
                 24,
                 new String[]{ //Kill
-                        "Meow!",
+                        "Miau!",
                         "Hiss!",
                         "Hisss!",
                 },
                 12,
                 new String[]{ //Death
-                        "Meow...",
-                        "Meow... meow?",
-                        "Meow...?"
+                        "Miau...",
+                        "Miau... miau?",
+                        "Miau...?"
                 },
                 new String[]{ //Level Up
-                        "Meow! (Level $level)"
+                        "Miau! (Level $level)"
                 },
                 new String[]{ //On Hurt
-                        "Meow!",
+                        "Miau!",
                         "Hiss!",
                         "Hiss!",
                         "Hisss!"
                 }, 8,
                 new String[]{ //Twenty percent
-                        "Meow! ($durability durability remaining)",
-                        "Meow? ($durability durability remaining)",
+                        "Miau! ($durability durability remaining)",
+                        "Miau? ($durability durability remaining)",
                 },
                 new String[]{ //Five percent
-                        "Growl! ($durability durability remaining)",
-                        "Meow! ($durability durability remaining)",
-                        "Meow??? Bark Bark! ($durability durability remaining)",
+                        "Mrrrrow! ($durability durability remaining)",
+                        "Miau! ($durability durability remaining)",
+                        "Miau??? Mrrrrow Mrrrrow! ($durability durability remaining)",
                 }));
         createPersonalityFile(new Personality(10, "Dog",
                 new String[]{ //Use
-                        "Woof.",
-                        "Howl.",
-                        "Whimper.",
-                        "Bark! Bark! Bark!",
-                        "*Sniffs*"
+                        "Au au.",
+                        "áuuuuu.",
+                        "Khainnn.",
+                        "Au! Au! Au!",
+                        "*farejando*"
                 },
                 24,
                 new String[]{ //Kill
-                        "Bark!",
-                        "Bark bark bark!",
-                        "Bark! Bark! Bark!"
+                        "Au!",
+                        "AU AU AU!",
+                        "Au! AU! Au!"
                 },
                 12,
                 new String[]{ //Death
-                        "Whimper.",
-                        "Whine.",
+                        "Khai...nn.",
+                        "khain.....",
                 },
                 new String[]{ //Level Up
-                        "Bark! (Level $level)",
-                        "Woof! (Level $level)"
+                        "Au! (Level $level)",
+                        "AUU! (Level $level)"
                 },
                 new String[]{ //On Hurt
-                        "Woof!",
-                        "Bark!",
-                        "Bark bark bark!",
-                        "Howl.",
-                        "Low growl."
+                        "Au!",
+                        "AUAU!",
+                        "Au au au!",
+                        "Auuuuuuuu.",
+                        "*Rrrrrrr*"
                 }, 8,
                 new String[]{ //Twenty percent
-                        "Wimpers. ($durability durability remaining)",
-                        "Whine. ($durability durability remaining)",
-                        "Bark! Bark Bark! ($durability durability remaining)",
+                        "Khainnn. ($durability durability remaining)",
+                        "Rrrrr. ($durability durability remaining)",
+                        "Au! Auuuuu! ($durability durability remaining)",
                 },
                 new String[]{ //Five percent
-                        "Wimpers. ($durability durability remaining)",
-                        "Whine. ($durability durability remaining)",
-                        "Bark! Bark Bark! ($durability durability remaining)",
+                        "Khainnn. ($durability durability remaining)",
+                        "*choramingando* ($durability durability remaining)",
+                        "AUUuu! ($durability durability remaining)",
                 }));
         createPersonalityFile(new Personality(10, "Glitchy",
                 new String[]{ //Use
@@ -525,9 +540,9 @@ public class PersonalityLoader {
                         "⟟⌇⋏'⏁ ⟟⏁ ⏁⟟⋔⟒ ⊬⍜⎍ ⍀⟒⌿⏃⟟⍀⟒⎅ ⋔⟒? ($durability durability remaining!)",
                         "⟟'⋔ ⎎⟒⟒⌰⟟⋏☌ ⌿⍀⟒⏁⏁⊬ ⍙⟒⏃☍ ($durability durability remaining!)",
                 }));
-        createPersonalityFile(new Personality(10, "Energetic",
+        createPersonalityFile(new Personality(10, "Enérgico",
                 new String[]{ //Use
-                        "Again! Again!",
+                        "De novo! De novo!",
                         "This is so fun, let's keep doing it, $user!",
                         "Keep going!",
                         "Yay!",
