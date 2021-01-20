@@ -334,7 +334,6 @@ public class PersonalityLoader {
                         "'-'",
                         ".-.",
                         ">-<",
-                        "( ͡❛ ͜ʖ ͡❛)",
                 },
                 40,
                 new String[]{ //Kill
@@ -346,28 +345,18 @@ public class PersonalityLoader {
                 new String[]{ //Death
                         ";-;",
                         ";;---;;",
-                        "( ﾟдﾟ)",
-                        "(ㆆ_ㆆ)",
                 },
                 new String[]{ //Level Up
-                        "¯\_(ツ)_/¯ (Level $level)",
-                        "◕‿◕ (Level $level)",
                         "^_^ (Level $level)",
                 },
                 new String[]{ //On Hurt
                         "ಠ_ಠ",
-                        "( ˘︹˘ )",
-                        "(ง︡'-'︠)ง",
-                        "(≖_≖ )",
                 },
                 40,
                 new String[]{ //Twenty percent
-                        "(╥﹏╥) ($durability durabilidade restante)",
                         "ó_ò ($durability durabilidade restante)",
                 },
                 new String[]{ //Five percent
-                        "＞︿＜ ($durability ddurabilidade restante)",
-                        "＋▽＋ ($durability durabilidade restante)",
                         "+_+ ($durability durabilidade restante)",
                 }));
         createPersonalityFile(new Personality(10, "Gato",
