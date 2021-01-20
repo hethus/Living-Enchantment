@@ -348,6 +348,7 @@ public class PersonalityLoader {
                 },
                 new String[]{ //Level Up
                         "^_^ (Level $level)",
+                        ":) (Level $level)",
                 },
                 new String[]{ //On Hurt
                         "ಠ_ಠ",
